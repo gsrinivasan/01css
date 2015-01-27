@@ -1,1 +1,65 @@
 /* custom css */
+
+h1 {
+	text-align: center;
+	color:black;
+	font-family:georgia;
+}
+
+body {
+	margin: 10;
+	padding: 10;
+	width: 100%;
+}
+
+h3 {
+	text-align: center;
+	color:white;
+}
+
+h3 a {
+	color:white;
+	text-decoration: none;
+}
+
+h3 a.hover {
+	color:#CC99FF;
+}
+
+ul {
+	margin: 5px;
+	padding: 5px;
+	width: 100%;
+}
+
+li {
+	margin: 0;
+	padding: 10px;
+	width: 30%;
+	float: left;
+	list-style: none;
+}
+
+.one {
+	background-color: #290052;
+	color: white;
+	margin: 0 1% 0 0;
+	padding: 10px;
+	font-family: Georgia;
+}
+
+.two {
+	background-color: #5200A3;
+	color: white;
+	margin: 0 1% 1% 0;
+	padding: 10px;
+	font-family: Georgia;
+}
+
+.three {
+	background-color: #8533D6;
+	color: white;
+	margin: 0 0 1% 0;
+	padding: 10px;
+	font-family: Georgia;
+}
