@@ -2,8 +2,8 @@
 
 h1 {
 	text-align: center;
-	color:black;
-	font-family:georgia;
+	color: black;
+	font-family: Georgia;
 }
 
 body {
@@ -14,16 +14,16 @@ body {
 
 h3 {
 	text-align: center;
-	color:white;
+	color: white;
 }
 
 h3 a {
-	color:white;
+	color: white;
 	text-decoration: none;
 }
 
 h3 a:hover {
-	color:yellow;
+	color: #FFFF9C;
 }
 
 ul {
